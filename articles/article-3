@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+      <title>Fan Articles - LFC WORLD</title>
+      <link rel="stylesheet" type="text/css" href="../act_style.css"/>
+</head>
+
+<body>
+      <div id="container">
+      
+
+
+           	<div id="header">
+           	</div>
+
+		<hr></hr>
+		
+           	<div id="navMenu">
+                      <ul>
+              	      		<li><a href="../Default.html"  >Home</a></li>
+              	      		
+              			<li><a href="">Matches</a>
+                                	<ul>
+                                		<li><a href="../matches/last-match">Last match analysis</a></li>
+                                		<li><a href="../matches/next-match">Next match preview</a></li>
+                                 	</ul>
+                                 </li>
+                                 
+                                 <li><a href="">Schedule</a>
+                                 	<ul>
+		                                    <li><a href="../schedule/bpl-schedule">Barclays Premier League</a></li>
+		                                    <li><a href="../schedule/cl-schedule">Uefa Champions League</a></li>
+		                                    <li><a href="../schedule/c1c-schedule">Capital One Cup</a></li>
+                                	</ul>
+
+                                </li>
+	              		<li><a href="">Squad</a>
+                                      <ul>
+                                    	<li><a href="../squad/current-team">Current Team</a></li>
+                                    	<li><a href="../squad/loan-watch">Loan Watch</a></li>
+                                	</ul>
+                                  </li>
+                                  <li><a href="">Monthly Reviews</a>
+				<ul>
+					<li><a href="../monthly-review/2014/list">2014</a></li>
+				</ul>
+				</li>
+				<li><a href="../articles/article-1" style="background-color:#300000">Fan Articles</a></li>
+				
+	              		<li><a href="../game-tv/tv">Game TV</a></li>
+
+				<li><a href="/aup/about-us">About Us</a></li>
+              		</ul>
+           	</div>
+           
+           <hr></hr>
+
+
+                      
+	<div id="main">
+	
+	<h2 >Raheem Sterling mustn't overdo it. Liverpool and England will suffer.</h2>
+                              <img src="7.jpg" Width="350" Height="200"  style="border:thick double #300000"/>
+                              
+
+                              <h5 style="color:red;text-align:center;"><a href="sterling_must_not_overdo">
+                             Click here to read the full article>></a></h5>
+	
+	                             	<h2 >Are we still missing Suarez?</h2>
+                              <img src= "6.jpg" Width="350" Height="200"  style="border:thick double #300000"/>
+
+
+                              <h5 style="color:red;text-align:center;"><a href="are_we_missing_suarez">
+                             Click here to read the full article>></a></h5>
+	
+	<h2 >How to solve a problem like Mignolet</h2>
+                              <img src="5.jpg" Width="350" Height="200"  style="border:thick double #300000"/>
+
+                              
+                              <h5 style="color:red;text-align:center;"><a href="how_to_solve_a_problem_like_mignolet">
+                             Click here to read the full article>></a></h5>
+	
+			  <h2 >Our week in 1,098 words</h2>
+                              <img src="4.jpg" Width="350" Height="200"  style="border:thick double #300000"/>
+
+                              
+                               <h5 style="color:red;text-align:center;"><a href="our_week_in_1098_words">
+                             Click here to read the full article>></a></h5>
+                             
+                             <h2 >The New Signings</h2>
+                              <img src="3.jpg" Width="350" Height="200"  style="border:thick double #300000"/>
+                              
+                              
+                              <h5 style="color:red;text-align:center;"><a href="latest_signings">
+                             Click here to read the full article>></a></h5>
+	
+	<h2 >Balotelli's performance analysis</h2>
+                              <img src="2.jpg" Width="350" Height="200"  style="border:thick double #300000"/>
+
+                              
+                              <h5 style="color:red;text-align:center;"><a href="ballotelli's_performance_analysis">
+                             Click here to read the full article>></a></h5>
+	
+                 
+                 
+<h2 >Fan Focus Kids Edition: International Break</h2>
+                              <img src="1.jpg" Width="350" Height="200" style="border:thick double #300000"/>
+
+                              
+                              <h5 style="color:red;text-align:center"><a href="fan_focus_kids_edition">
+                             Click here to read the full article>></a></h5>
+	
+	
+	
+	
+	
+
+                             
+                             <p style="text-align:right">Page: <a href="article-1">1</a> <a href="article-2">2</a> 3 
+                             </p>
+
+
+
+                            
+                             
+                                                                <style type='text/css'>@import url('http://getbarometer.s3.amazonaws.com/assets/barometer/css/barometer.css');</style>
+<script src='http://getbarometer.s3.amazonaws.com/assets/barometer/javascripts/barometer.js' type='text/javascript'></script>
+<script type="text/javascript" charset="utf-8">
+  BAROMETER.load('mmxYpYAp1NBTXpB8MwZ5O');</script>
+
+
+                      </div>  
+                          
+                         
+                           
+                           <div id="footer">    Copyight &copy; Liverpool World 2014
+                         
+                           </div>
+
+                          
+                          </div>
+            </body>
+            </html>

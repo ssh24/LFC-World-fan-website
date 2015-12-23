@@ -1,0 +1,124 @@
+body{
+  background-color: silver;
+}
+a{
+  text-decoration: none;
+  color: red;
+  padding:2px;
+}
+
+#container{
+  background-color:black;
+  margin-left: auto;
+  margin-right: auto;
+  width:1110px;
+
+
+}
+
+
+
+#header{
+  background-image: url(../Data/Optimized-5times2.jpg);
+  color: yellow;
+  text-align: right;
+  font-weight: bold;
+  padding:88px;
+  position:relative;
+  height:195px;
+}
+
+#navMenu{
+         width: 1110px;
+    height: 35px;
+    font-size: 17px;
+    font-family: Calibri;
+    font-weight: bold;
+    text-align: center;
+
+    background-color: black;
+        border-radius: 8px;
+
+}
+
+#navMenu ul{
+         padding:0;
+         margin:0;
+         line-height:30px;
+}
+
+#navMenu li{
+         margin:0;
+         padding:0;
+         list-style-type:none;
+         float:left;
+         position:relative;
+         background-color: black;
+         display: inline;
+}
+
+#navMenu ul li a{
+         text-align:center;
+         font-family:Calibri;
+         text-decoration:none;
+         height:auto;
+         width:130px;
+         display:block;
+         color:white;
+
+
+}
+
+#navMenu ul ul{
+         position:absolute;
+         visibility:hidden;
+         top:34px;
+}
+
+#navMenu ul li:hover ul{
+         visibility:visible;
+         font-size: 11px;
+         font-family: Calibri;
+}
+
+/****************/
+
+#navMenu li:hover{
+
+         background: #300000;
+}
+
+#navMenu ul li:hover ul li a:hover{
+         background: #300000;
+}
+
+
+
+
+
+
+#main{
+  background-color:black;
+  width: 1080px;
+      height: default;
+  float:center;
+  color: #A46A32;
+  text-align:center;
+  font-family:Calibri;
+  padding: 10px 10px 10px 10px;
+}
+#tableMy
+{
+  text-align:center;
+  font: medium sans-serif;
+}
+
+
+#footer{
+width:1110px;
+float:center;
+
+  background-color: #300000;
+  color:white;
+  text-align: center;
+}

@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+      <title>Team Roster - LFC WORLD</title>
+      <link rel="stylesheet" type="text/css" href="../act_style.css"/>
+</head>
+
+<body>
+      <div id="container">
+      
+
+
+           	<div id="header">
+           	</div>
+
+		<hr></hr>
+		
+           	<div id="navMenu">
+                       <ul>
+              	      		<li><a href="../Default.html"  >Home</a></li>
+              	      		
+              			<li><a href="">Matches</a>
+                                	<ul>
+                                		<li><a href="../matches/last-match">Last match analysis</a></li>
+                                		<li><a href="../matches/next-match">Next match preview</a></li>
+                                 	</ul>
+                                 </li>
+                                 
+                                 <li><a href="">Schedule</a>
+                                 	<ul>
+		                                    <li><a href="../schedule/bpl-schedule">Barclays Premier League</a></li>
+		                                    <li><a href="../schedule/cl-schedule">Uefa Champions League</a></li>
+		                                    <li><a href="../schedule/c1c-schedule">Capital One Cup</a></li>
+                                	</ul>
+
+                                </li>
+	              		<li><a href="" style="background-color:#300000">Squad</a>
+                                      <ul>
+                                    	<li><a href="../squad/current-team">Current Team</a></li>
+                                    	<li><a href="../squad/loan-watch">Loan Watch</a></li>
+                                	</ul>
+                                  </li>
+                                  
+                                 <li><a href="">Monthly Reviews</a>
+				<ul>
+					<li><a href="../monthly-review/2014/list">2014</a></li>
+				</ul>
+				</li>
+				
+				<li><a href="../articles/article-1">Fan Articles</a></li>
+				
+	              		<li><a href="../game-tv/tv">Game TV</a></li>
+
+				<li><a href="/aup/about-us">About Us</a></li>
+              		</ul>
+                                 	</div>
+           
+           <hr></hr>
+
+
+                    
+	<div id="main">
+                
+<h3 style="text-decoration:underline;font-size:20px">Team Roster</h3>
+                     
+                     <table border="1" style="width:100%; ">
+                            <tr>
+                              <td><h4 style="color:aqua;text-decoration:underline">Squad #</h4></td>
+                              <td><h4 style="color:aqua;text-decoration:underline">Last Name</h4></td>
+                              <td><h4 style="color:aqua;text-decoration:underline">First Name</h4></td>
+                              <td><h4 style="color:aqua;text-decoration:underline">Nationality</h4></td>
+                              <td><h4 style="color:aqua;text-decoration:underline">Age</h4></td>
+                              <td><h4 style="color:aqua;text-decoration:underline">Position</h4></td>
+                              <td><h4 style="color:aqua;text-decoration:underline">Loan(Y/N)</h4></td>
+                              <td><h4 style="color:aqua;text-decoration:underline">Loan to/Loan from</h4></td>
+                            </tr>
+                            <tr style="color:white;">
+                                <td>1</td>
+                                <td>Jones</td>
+                                <td>Brad</td>
+                                <td>Australia</td>
+                                <td>32</td>
+                                <td>Goalkeeper</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;">
+                                <td>2</td>
+                                <td>Johnson</td>
+                                <td>Glen</td>
+                                <td>England</td>
+                                <td>30</td>
+                                <td>Defender</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;">
+                                <td>3</td>
+                                <td>Enrique</td>
+                                <td>Jose</td>
+                                <td>Spain</td>
+                                <td>28</td>
+                                <td>Defender</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;">
+                                <td>4</td>
+                                <td>Toure</td>
+                                <td>Kolo</td>
+                                <td>Ivory Coast</td>
+                                <td>33</td>
+                                <td>Defender</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:red">
+                                <td>6</td>
+                                <td>Lovren</td>
+                                <td>Deja</td>
+                                <td>Croatia</td>
+                                <td>25</td>
+                                <td>Defender</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>8</td>
+                                <td>Gerrard</td>
+                                <td>Steven</td>
+                                <td>England</td>
+                                <td>34</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:blue">
+                                <td>9</td>
+                                <td>Lambert</td>
+                                <td>Ricky</td>
+                                <td>England</td>
+                                <td>32</td>
+                                <td>Attacker</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>10</td>
+                                <td>Coutinho</td>
+                                <td>Philippe</td>
+                                <td>Brazil</td>
+                                <td>22</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:blue">
+                                <td>11</td>
+                                <td>Assaidi</td>
+                                <td>Oussama</td>
+                                <td>Morocco</td>
+                                <td>26</td>
+                                <td>Attacker</td>
+                                <td>Y</td>
+                                <td>To: Stoke City</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>14</td>
+                                <td>Henderson</td>
+                                <td>Jordan</td>
+                                <td>England</td><td>24</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:blue">
+                                <td>15</td>
+                                <td>Sturridge</td>
+                                <td>Daniel</td>
+                                <td>England</td><td>25</td>
+                                <td>Attacker</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:red">
+                                <td>16</td>
+                                <td>Coates</td>
+                                <td>Sebastian</td>
+                                <td>Uruguay</td><td>23</td>
+                                <td>Defender</td>
+                                <td>Y</td>
+                                <td>To: Sunderland</td>
+                            </tr>
+                            <tr style="color:white;:red">
+                                <td>17</td>
+                                <td>Sakho</td>
+                                <td>Mamadou</td>
+                                <td>France</td><td>24</td>
+                                <td>Defender</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:red">
+                                <td>18</td>
+                                <td>Moreno</td>
+                                <td>Alberto</td>
+                                <td>Spain</td><td>22</td>
+                                <td>Defender</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:red">
+                                <td>19</td>
+                                <td>Manquillo</td>
+                                <td>Javi</td>
+                                <td>Spain</td><td>20</td>
+                                <td>Defender</td>
+                                <td>Y</td>
+                                <td>From: Atletico Madrid</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>20</td>
+                                <td>Lallana</td>
+                                <td>Adam</td>
+                                <td>England</td> <td>26</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>21</td>
+                                <td>Leiva</td>
+                                <td>Lucas</td>
+                                <td>Brazil</td><td>27</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:purple">
+                                <td>22</td>
+                                <td>Mignolet</td>
+                                <td>Simon</td>
+                                <td>Belgium</td><td>26</td>
+                                <td>Goalkeeper</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>23</td>
+                                <td>Can</td>
+                                <td>Emre</td>
+                                <td>Germany</td><td>20</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>24</td>
+                                <td>Allen</td>
+                                <td>Joe</td>
+                                <td>Wales</td><td>24</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:red">
+                                <td>26</td>
+                                <td>Llori</td>
+                                <td>Tiago</td>
+                                <td>Portugal</td><td>21</td>
+                                <td>Defender</td>
+                                <td>Y</td>
+                                <td>To: Bordeaux</td>
+                            </tr>
+                            <tr style="color:white;:blue">
+                                <td>29</td>
+                                <td>Borini</td>
+                                <td>Fabio</td>
+                                <td>Italy</td> <td>23</td>
+                                <td>Attacker</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>30</td>
+                                <td>Saez</td>
+                                <td>Jesus</td>
+                                <td>Spain</td> <td>20</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>31</td>
+                                <td>Sterling</td>
+                                <td>Raheem</td>
+                                <td>England</td> <td>19</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>32</td>
+                                <td>Brannagan</td>
+                                <td>Cameron</td>
+                                <td>England</td><td>18</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>33</td>
+                                <td>Ibe</td>
+                                <td>Jordan</td>
+                                <td>England</td> <td>18</td>
+                                <td>Midfielder</td>
+                                <td>Y</td>
+                                <td>To: Derby County</td>
+                            </tr>
+                            <tr style="color:white;:blue">
+                                <td>36</td>
+                                <td>Yesil</td>
+                                <td>Samed</td>
+                                <td>Germany</td> <td>20</td>
+                                <td>Attacker</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:red">
+                                <td>37</td>
+                                <td>Skrtel</td>
+                                <td>Martin</td>
+                                <td>Slovakia</td><td>29</td>
+                                <td>Defender</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:red">
+                                <td>38</td>
+                                <td>Flanagan</td>
+                                <td>Jon</td>
+                                <td>England</td><td>21</td>
+                                <td>Defender</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>41</td>
+                                <td>Dunn</td>
+                                <td>Jack</td>
+                                <td>England</td><td>19</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>44</td>
+                                <td>Smith</td>
+                                <td>Brad</td>
+                                <td>England</td><td>20</td>
+                                <td>Midfielder</td>
+                                <td>Y</td>
+                                <td>To: Swindon Town</td>
+                            </tr>
+                            <tr style="color:white;:blue">
+                                <td>45</td>
+                                <td>Balotelli</td>
+                                <td>Mario</td>
+                                <td>Italy</td><td>24</td>
+                                <td>Attacker</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>46</td>
+                                <td>Rossiter</td>
+                                <td>Jordan</td>
+                                <td>England</td><td>17</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:red">
+                                <td>47</td>
+                                <td>Wisdom</td>
+                                <td>Andre</td>
+                                <td>England</td><td>21</td>
+                                <td>Defender</td>
+                                <td>Y</td>
+                                <td>West Bromwich Albion</td>
+                            </tr>
+                            <tr style="color:white;:blue">
+                                <td>48</td>
+                                <td>Sinclair</td>
+                                <td>Jerome</td>
+                                <td>England</td> <td>18</td>
+                                <td>Attacker</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>49</td>
+                                <td>Williams</td>
+                                <td>Jordan</td>
+                                <td>Wales</td> <td>18</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>50</td>
+                                <td>Markovic</td>
+                                <td>Lazar</td>
+                                <td>Serbia</td> <td>20</td>
+                                <td>Midfielder</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:red">
+                                <td>51</td>
+                                <td>Jones</td>
+                                <td>Lloyd</td>
+                                <td>England</td><td>18</td>
+                                <td>Defender</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:purple">
+                                <td>52</td>
+                                <td>Ward</td>
+                                <td>Danny</td>
+                                <td>Wales</td><td>21</td>
+                                <td>Goalkeeper</td>
+                                <td>N</td>
+                                <td>-</td>
+                            </tr>
+                            <tr style="color:white;:green">
+                                <td>53</td>
+                                <td>Teixeira</td>
+                                <td>Joao Carlos</td>
+                                <td>Portugal</td><td>21</td>
+                                <td>Midfielder</td>
+                                <td>Y</td>
+                                <td>To: Brighton</td>
+                            </tr>
+                            <tr style="color:white;:blue">
+                                <td>-</td>
+                                <td>Alberto</td>
+                                <td>Luis</td>
+                                <td>Spain</td><td>22</td>
+                                <td>Attacker</td>
+                                <td>Y</td>
+                                <td>To: Malaga</td>
+                            </tr>
+                            <tr style="color:white;:blue">
+                                <td>-</td>
+                                <td>Aspas</td>
+                                <td>Iagos</td>
+                                <td>Spain</td><td>27</td>
+                                <td>Attacker</td>
+                                <td>Y</td>
+                                <td>To: Sevilla</td>
+                            </tr>
+                            <tr style="color:white;:blue">
+                                <td>-</td>
+                                <td>Origi</td>
+                                <td>Divock</td>
+                                <td>Belgium</td><td>19</td>
+                                <td>Attacker</td>
+                                <td>Y</td>
+                                <td>To: Lille OSC</td>
+                            </tr>
+                            </table>
+                   
+                   <style type='text/css'>@import url('http://getbarometer.s3.amazonaws.com/assets/barometer/css/barometer.css');</style>
+<script src='http://getbarometer.s3.amazonaws.com/assets/barometer/javascripts/barometer.js' type='text/javascript'></script>
+<script type="text/javascript" charset="utf-8">
+  BAROMETER.load('mmxYpYAp1NBTXpB8MwZ5O');</script>
+
+
+                      </div>  
+                          
+                         
+                           
+                           <div id="footer">    Copyight &copy; Liverpool World 2014
+                         
+                           </div>
+
+                          
+                          </div>
+            </body>
+            </html>

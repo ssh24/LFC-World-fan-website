@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+      <title>Loan Watch - LFC WORLD</title>
+      <link rel="stylesheet" type="text/css" href="../act_style.css"/>
+</head>
+
+<body>
+      <div id="container">
+      
+
+
+           	<div id="header">
+           	</div>
+
+		<hr></hr>
+		
+           	<div id="navMenu">
+                       <ul>
+              	      		<li><a href="../Default.html"  >Home</a></li>
+              	      		
+              			<li><a href="">Matches</a>
+                                	<ul>
+                                		<li><a href="../matches/last-match">Last match analysis</a></li>
+                                		<li><a href="../matches/next-match">Next match preview</a></li>
+                                 	</ul>
+                                 </li>
+                                 
+                                 <li><a href="">Schedule</a>
+                                 	<ul>
+		                                    <li><a href="../schedule/bpl-schedule">Barclays Premier League</a></li>
+		                                    <li><a href="../schedule/cl-schedule">Uefa Champions League</a></li>
+		                                    <li><a href="../schedule/c1c-schedule">Capital One Cup</a></li>
+                                	</ul>
+
+                                </li>
+	              		<li><a href="" style="background-color:#300000">Squad</a>
+                                      <ul>
+                                    	<li><a href="../squad/current-team">Current Team</a></li>
+                                    	<li><a href="../squad/loan-watch">Loan Watch</a></li>
+                                	</ul>
+                                  </li>
+                                  
+                                  <li><a href="">Monthly Reviews</a>
+				<ul>
+					<li><a href="../monthly-review/2014/list">2014</a></li>
+				</ul>
+				</li>
+                                  
+				<li><a href="../articles/article-1">Fan Articles</a></li>
+				
+	              		<li><a href="../game-tv/tv">Game TV</a></li>
+
+				<li><a href="/aup/about-us">About Us</a></li>
+              		</ul>
+           	</div>
+           
+           <hr></hr>
+
+
+                    
+	<div id="main">
+                
+ <h2>ANDRE WISDOM</h2>
+
+                 <img src="47.jpg" Width="auto"
+                                  style="border:thick double #300000">
+
+                                  <table border="6" align="center" >
+
+                                          <tr style="color:white">
+                                              <td>First Name</td>
+                                              <td>Last Name</td>
+                                              <td>Squad Number</td>
+                                              <td>Position</td>
+                                              <td>D.O.B</td>
+                                              <td>Nationality</td>
+                                              <td>Loan to</td>
+                                              <td>Apps</td>
+                                              <td>Goals</td>
+                                          </tr>
+                                          <tr style="color:grey">
+                                              <td>Andre</td>
+                                              <td>Wisdom</td>
+                                              <td>2</td>
+                                              <td>Defender</td>
+                                              <td>9 May, 1993</td>
+                                              <td>England</td>
+                                              <td>WBA</td>
+                                              <td>6</td>
+                                              <td>0</td>
+                                          </tr>
+                                   </table>
+                                   
+                                  
+
+
+                 
+
+                
+
+                 <h2>DIVOCK ORIGI</h2>
+                 <img src="DO.jpg" Width="auto"
+                                  style="border:thick double #300000">
+
+                                   <table border="6" align="center">
+                                          <tr style="color:white">
+                                          <td>First Name</td>
+                                          <td>Last Name</td>
+                                          <td>Squad Number</td>
+                                          <td>Position</td>
+                                          <td>D.O.B</td>
+                                          <td>Nationality</td>
+                                          <td>Loan to</td>
+                                          <td>Apps</td>
+                                          <td>Goals</td>
+                                          </tr>
+                                          <tr style="color:grey">
+                                          <td>Divock</td>
+                                          <td>Origi</td>
+                                          <td>27</td>
+                                          <td>Forward</td>
+                                          <td>18 April, 1995</td>
+                                          <td>Belgium</td>
+                                          <td>Lille OSC</td>
+                                          <td>7</td>
+                                          <td>4</td>
+                                          </tr>
+                                   </table>
+
+                                   
+
+                                   
+
+                                   <h2>IAGO ASPAS</h2>
+
+                 <img src="IA.jpg" Width="auto"
+                                  style="border:thick double #300000">
+
+                                  <table border="6" align="center">
+
+                                          <tr style="color:white">
+                                              <td>First Name</td>
+                                              <td>Last Name</td>
+                                              <td>Squad Number</td>
+                                              <td>Position</td>
+                                              <td>D.O.B</td>
+                                              <td>Nationality</td>
+                                              <td>Loan to</td>
+                                              <td>Apps</td>
+                                              <td>Goals</td>
+                                          </tr>
+                                          <tr style="color:grey">
+                                              <td>Iago</td>
+                                              <td>Aspas</td>
+                                              <td>14</td>
+                                              <td>Forward</td>
+                                              <td>1 August, 1987</td>
+                                              <td>Spain</td>
+                                              <td>Sevilla</td>
+                                              <td>2</td>
+                                              <td>1</td>
+                                          </tr>
+                                   </table>
+
+                                   
+                                   
+                                    
+                                   
+                                    <h2>JOAO TEIXEIRA</h2>
+
+                 <img src="53.jpg" Width="auto"
+                                  style="border:thick double #300000">
+
+                                  <table border="6" align="center">
+                                          <tr style="color:white">
+                                              <td>First Name</td>
+                                              <td>Last Name</td>
+                                              <td>Squad Number</td>
+                                              <td>Position</td>
+                                              <td>D.O.B</td>
+                                              <td>Nationality</td>
+                                              <td>Loan to</td>
+                                              <td>Apps</td>
+                                              <td>Goals</td>
+                                          </tr>
+                                          <tr style="color:grey">
+                                              <td>Joao</td>
+                                              <td>Teixeira</td>
+                                              <td>17</td>
+                                              <td>Midfielder</td>
+                                              <td>18 January, 1993</td>
+                                              <td>Portugal</td>
+                                              <td>Brighton</td>
+                                              <td>9</td>
+                                              <td>2</td>
+                                          </tr>
+                                   </table>
+
+                                  
+                                   
+                                  
+
+
+                                   <p style="text-align:right">Page: 1 <a href="loan-watch2">2</a> <a href="loan-watch3">3</a></p>
+                                   
+                                   <h4 style="text-align:left;color:orange">
+                                   **Note: All player images are a courtesy of Liverpool FC's official website.</h4>
+                   
+                   <style type='text/css'>@import url('http://getbarometer.s3.amazonaws.com/assets/barometer/css/barometer.css');</style>
+<script src='http://getbarometer.s3.amazonaws.com/assets/barometer/javascripts/barometer.js' type='text/javascript'></script>
+<script type="text/javascript" charset="utf-8">
+  BAROMETER.load('mmxYpYAp1NBTXpB8MwZ5O');</script>
+
+
+                      </div>  
+                          
+                         
+                           
+                           <div id="footer">    Copyight &copy; Liverpool World 2014
+                         
+                           </div>
+
+                          
+                          </div>
+            </body>
+            </html>
